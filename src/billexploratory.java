@@ -221,7 +221,7 @@ public class billexploratory {
 		//	driver.findElement(By.xpath("//i[contains(@class; 'tawk-icon-close')]"));
 			
 			//	}
-		
+		system.out.println("My Name");
 		
 	driver.findElement(By.id("place_order")).click();
 
